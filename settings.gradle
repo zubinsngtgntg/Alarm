@@ -1,0 +1,5 @@
+pluginManagement {
+  repositories { gradlePluginPortal(); google(); mavenCentral() }
+}
+rootProject.name = "BFA-LSPosed-Module"
+include(":app")
